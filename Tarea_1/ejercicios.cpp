@@ -1,4 +1,5 @@
 #include"ejercicios.h"
+#include"clases.h"
 
 void ejercicio_5a(){
 
