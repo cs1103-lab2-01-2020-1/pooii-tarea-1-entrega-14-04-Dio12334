@@ -13,7 +13,7 @@ Number<T>::Number(int value){
 template <typename T>
 
 Number<T>::Number(const Number<T>& other){
-	this->value(value);
+	this->value=value;
 }
 
 template <typename T>
