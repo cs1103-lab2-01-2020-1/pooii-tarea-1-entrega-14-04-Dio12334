@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/unidad.dir/src/Integer.cpp.o CMakeFiles/unidad.dir/src/Number.cpp.o CMakeFiles/unidad.dir/src/ejercicios.cpp.o CMakeFiles/unidad.dir/src/main.cpp.o CMakeFiles/unidad.dir/src/utvec.cpp.o  -o unidad 
